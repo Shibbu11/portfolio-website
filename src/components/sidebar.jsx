@@ -25,7 +25,7 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                <li><a href="https://www.facebook.com/shivpratap.singh.7505468" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://www.instagram.com/iamshibbu/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li><a href="https://www.linkedin.com/in/shiv-pratap-singh-7074ba102/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/Shibbu11/" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
